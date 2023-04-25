@@ -19,7 +19,7 @@ module.exports = {
         'Persian-blue-circle': 'hsla(241, 72%, 46%, 1)',
         'Persian-blue-circle01': 'hsla(241, 72%, 46%, 0)',
 
-        'Pale-blue': 'hsl(221, 100%, 96%)',
+        'Pale-blue': 'hsl(221, 100%, 80%)',
         'Light-lavender': 'hsl(241, 100%, 89%)',
         'Dark-gray-blue': 'hsl(224, 30%, 27%)'
       },
