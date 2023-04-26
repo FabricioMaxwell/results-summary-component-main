@@ -665,34 +665,14 @@ video {
   background-color: hsla(39, 100%, 56%, 0.090);
 }
 
-.bg-Pale-blue {
-  --tw-bg-opacity: 1;
-  background-color: hsl(221 100% 80% / var(--tw-bg-opacity));
-}
-
-.bg-white {
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-}
-
-.bg-blue-200 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(191 219 254 / var(--tw-bg-opacity));
-}
-
 .bg-blue-100 {
   --tw-bg-opacity: 1;
   background-color: rgb(219 234 254 / var(--tw-bg-opacity));
 }
 
-.bg-blue-50 {
+.bg-white {
   --tw-bg-opacity: 1;
-  background-color: rgb(239 246 255 / var(--tw-bg-opacity));
-}
-
-.bg-slate-200 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(226 232 240 / var(--tw-bg-opacity));
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
 .bg-gradient-to-b {
@@ -742,12 +722,24 @@ video {
   padding-bottom: 2rem;
 }
 
-.pt-5 {
-  padding-top: 1.25rem;
+.pt-6 {
+  padding-top: 1.5rem;
 }
 
 .pt-8 {
   padding-top: 2rem;
+}
+
+.pt-7 {
+  padding-top: 1.75rem;
+}
+
+.pt-5 {
+  padding-top: 1.25rem;
+}
+
+.pt-9 {
+  padding-top: 2.25rem;
 }
 
 .text-center {
@@ -821,20 +813,6 @@ video {
   .min-\[450px\]\:w-\[450px\] {
     width: 450px;
   }
-
-  .min-\[450px\]\:max-w-\[\] {
-    max-width: ;
-  }
-
-  .min-\[450px\]\:max-w-\[450px\] {
-    max-width: 450px;
-  }
-}
-
-@media (min-width: 550px) {
-  .min-\[550px\]\:w-96 {
-    width: 24rem;
-  }
 }
 
 @media (min-width: 640px) {
@@ -852,14 +830,6 @@ video {
 
   .sm\:w-\[640px\] {
     width: 640px;
-  }
-
-  .sm\:w-\[\] {
-    width: ;
-  }
-
-  .sm\:w-\[640p\B4\] {
-    width: 640p´;
   }
 
   .sm\:grid-cols-2 {
